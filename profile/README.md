@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://mdg-labs.dev">
-    <img src="https://mdg-labs.dev/assets/mdg-labs-logo-rectangle_transparent-bg.svg" alt="MDG Labs" width="280" />
+    <img src="https://mdg-labs.dev/assets/mdg-labs-logo-rectangle_transparent-bg.png" alt="MDG Labs" width="280" />
   </a>
 </p>
 
